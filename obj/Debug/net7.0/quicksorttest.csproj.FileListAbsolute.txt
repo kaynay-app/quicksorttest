@@ -1,0 +1,15 @@
+C:\Users\kelem\source\repos\quicksorttest\bin\Debug\net7.0\quicksorttest.exe
+C:\Users\kelem\source\repos\quicksorttest\bin\Debug\net7.0\quicksorttest.deps.json
+C:\Users\kelem\source\repos\quicksorttest\bin\Debug\net7.0\quicksorttest.runtimeconfig.json
+C:\Users\kelem\source\repos\quicksorttest\bin\Debug\net7.0\quicksorttest.dll
+C:\Users\kelem\source\repos\quicksorttest\bin\Debug\net7.0\quicksorttest.pdb
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.csproj.AssemblyReference.cache
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.AssemblyInfoInputs.cache
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.AssemblyInfo.cs
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.csproj.CoreCompileInputs.cache
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.dll
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\refint\quicksorttest.dll
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.pdb
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\quicksorttest.genruntimeconfig.cache
+C:\Users\kelem\source\repos\quicksorttest\obj\Debug\net7.0\ref\quicksorttest.dll
